@@ -46,13 +46,14 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###<!--- 👋 Hi, I’m @SAbdulra
+###
+<!--- 👋 Hi, I’m @SAbdulra
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... --->
 
 <!---
 SAbdulra/SAbdulra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
