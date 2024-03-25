@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SAbdulra/SAbdulra/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/SAbdulra/SAbdulra/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 <!--- 👋 Hi, I’m @SAbdulra
