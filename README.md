@@ -1,4 +1,4 @@
-![image](https://github.com/SAbdulra/SAbdulra/assets/140526014/3687f91c-b76b-42bf-8db5-b6facb8dacdb)<h2 align="left">Hi 👋! I’m @SAbdulra ... and I'm a Full-time Analyst | Linux SysAdmin ..., from Banglore, INDIA ....</h2>
+<h2 align="left">Hi 👋! I’m @SAbdulra ... and I'm a Full-time Analyst | Linux SysAdmin ..., from Banglore, INDIA ....</h2>
 
 ###
 
