@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I’m @SAbdulra ... and I'm a Full-time Analyst | Linux SysAdmin ..., from Banglore, INDIA ....</h2>
+<h2 align="left">Hi 👋! I’m @SAbdulra ... and I'm a Full-time Analyst | Linux SysAdmin ..., from Bangalore, INDIA ....</h2>
 
 ###
 
